@@ -1,0 +1,7 @@
+<!--home.wxml-->
+<view class="container">
+<view> Hello {{name}}! </view>
+ 
+<button bindtap="changeName"> Click me! </button>
+
+</view>
